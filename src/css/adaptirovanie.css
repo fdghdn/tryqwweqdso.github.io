@@ -1,0 +1,63 @@
+@media (min-width: 1200px){
+    .hr{
+        width: 1160;
+    }
+    .navbar{
+        margin-left: 40px;
+    }
+    .nav{
+        margin-left: 50px;
+    }
+    .intro_silka{
+        padding: 16px;
+    }
+    .dropbtn{
+        padding: 16px;
+    }
+    .intro-title{
+        font-size: 60px;
+    }
+    .intro-main-btn{
+        width: 120px;
+        height: 120px;
+        font-size: 10px;
+    }
+    .use{
+        font-size: 60px;
+    }
+    .container .btn{
+        width: 270px;
+    }
+}
+@media (min-width: 992px){
+    .intro-main-btn{
+        width: 120px;
+        height: 120px;
+        font-size: 10px;
+    }
+    .navbar{
+        margin-left: 20px;
+    }
+    .intro_silka{
+        font-size: 1.5rem;
+        padding: 8px;
+    }
+    .dropbtn{
+        padding: 8px;
+    }
+    .use{
+        font-size: 50px;
+    }
+    .container .btn{
+        width: 230px;
+    }
+}
+@media (min-width: 768px){
+    
+}
+@media (min-width: 480px){
+    
+}
+@media (min-width: 320px){
+    
+}
